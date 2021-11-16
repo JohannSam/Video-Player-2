@@ -1,0 +1,15 @@
+#video{ 
+  border-radius: 30px;
+} 
+
+.button{
+  background-color: black;
+}
+
+.video-maker{
+  background-color: red;
+}
+
+.control{
+  background-color: red;
+}
